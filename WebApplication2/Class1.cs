@@ -13,4 +13,16 @@ namespace WebApplication2
             Name = "Unit Testing";
         }
     }
+
+
+    public class SignIn
+    {
+        public int test()
+        {
+            int result = 2 + 2;
+            return result;
+        }
+    }
+
+
 }
